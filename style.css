@@ -194,6 +194,7 @@ main > section > img{
     background: #FFF;   
     display: inline;
     justify-content: center;
+    border: 0px;
 }
 
 .foot{
