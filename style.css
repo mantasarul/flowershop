@@ -141,3 +141,107 @@ main > section > img{
     flex-shrink: 0; 
     padding: 10px;
 }
+
+.latest-deal{
+    padding-left: 240px;
+    padding-right: 240px;
+    background-image: url('images/Rectangle 9.png');
+    width: 1440px;
+    height: 449px; 
+    /* align-items: center;
+    justify-content: space-between; */
+    align-items: center;
+    background-position: center;
+    background-repeat: no-repeat;
+    justify-content: space-between;
+    margin-top: 128px;
+
+    
+}
+
+.deal-head{
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    padding-top: 128px;
+}
+
+.deal-para{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.deal-input{
+    width: 700px;
+    height: 64px; 
+    color: rgba(39, 39, 39, 0.60);
+    /* text-align: center; */
+    font-family: Lato;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal; 
+    border-radius: 8px;
+    background: #FFF;   
+    display: inline;
+    justify-content: center;
+}
+
+.foot{
+    background: #111010;
+    padding: 128px 649px 179px 649px;
+    margin-top: 128px;
+}
+
+.foot-h{
+    color: #E55473;
+    font-family: Lato;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal; 
+    text-align: center;
+}
+
+.foot-p1{
+    display: flex;
+    width: 625px;
+    /* flex-direction: column; */
+    /* flex-shrink: 0;  */
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px; 
+}
+
+.foot-p2{
+    color: rgba(255, 255, 255, 0.40);
+    text-align: center;
+    font-family: Lato;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.deal-form{
+    align-items: center;
+    justify-content: center;
+    padding-left: 304px;
+}
+
+/* .random{
+    align-content: center;
+} */
