@@ -105,3 +105,39 @@ main > section > img{
 .hot-deal-section{
     text-align: center;
 }
+
+.insta-section{
+    margin-top: 128px;
+}
+
+.insta-header{
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal; 
+}
+
+.insta-para{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.insta-images{
+    padding-right: 200px;
+    padding-left: 200px;
+}
+
+.insta{
+    width: 342px;
+    height: 396px;
+    flex-shrink: 0; 
+    padding: 10px;
+}
